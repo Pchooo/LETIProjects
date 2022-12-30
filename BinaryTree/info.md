@@ -1,7 +1,6 @@
+## Binary tree
 
-##Binary tree
-
-######The purpose of this work was to study such a data structure as a tree.
+###### The purpose of this work was to study such a data structure as a tree.
 Pointers are used in the implementation, recursive functions were used for processing.
 
 ###### The following tasks were set:
